@@ -1,8 +1,4 @@
-layout: page
-title: "InspiraChat Technical Support"
-permalink: /support
-
-# Technical Support Contact Information
+# InspiraChat Technical Support
 
 ## Technical Support Contact Information
 
