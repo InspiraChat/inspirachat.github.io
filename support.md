@@ -4,8 +4,8 @@
 
 If you encounter any technical issues while using InspiraChat, please contact our technical support team through the following channels:
 
-- Technical Support Email: [support@inspirachat.com](mailto:support@inspirachat.com)
-- Working Hours: Monday to Friday 9:00-18:00 (GMT+8)
+- Technical Support Email: [wujiuye99@gmail.com](mailto:wujiuye99@gmail.com)
+- Working Hours: Monday to Friday 9:00-18:00 (UTC+8)
 
 We will respond to your email within 24 hours.
 
