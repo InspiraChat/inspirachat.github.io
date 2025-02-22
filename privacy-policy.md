@@ -48,5 +48,7 @@ If you have any questions or suggestions regarding InspiraChat's Privacy Policy,
 
 ## Policy Updates
 
-We may revise this Privacy Policy from time to time in accordance with changes in laws and regulations, technological advancements, or business development needs. Any revisions will be announced through in-app notifications or our official website, with the effective date indicated. Please check regularly to ensure you are aware of the latest Privacy Policy content.
+We may update our Privacy Policy from time to time. Therefore, we recommend that you check this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes will take effect immediately upon posting on this page.
+
+Last updated: February 22, 2025
 
