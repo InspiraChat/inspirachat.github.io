@@ -1,8 +1,8 @@
-# InspiraChat Technical Support
+# Chournal Technical Support
 
 ## Technical Support Contact Information
 
-If you encounter any technical issues while using InspiraChat, please contact our technical support team through the following channels:
+If you encounter any technical issues while using Chournal, please contact our technical support team through the following channels:
 
 - Technical Support Email: [wujiuye99@gmail.com](mailto:wujiuye99@gmail.com)
 - Working Hours: Monday to Friday 9:00-18:00 (UTC+8)
