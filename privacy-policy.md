@@ -2,7 +2,7 @@
 
 ## Overview
 
-Chournal(original name：Chournal) (hereinafter referred to as "we" or "the App") is a note-taking application designed to help users take notes as if they were chatting with someone. We respect and protect the privacy rights of every user. This Privacy Policy aims to provide detailed information on how we collect, use, store, and protect your personal information. Please read the following content carefully before using the App.
+Chournal(hereinafter referred to as "we" or "the App") is a note-taking application designed to help users take notes as if they were chatting with someone. We respect and protect the privacy rights of every user. This Privacy Policy aims to provide detailed information on how we collect, use, store, and protect your personal information. Please read the following content carefully before using the App.
 
 ## App Description
 
