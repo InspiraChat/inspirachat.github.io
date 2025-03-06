@@ -1,22 +1,22 @@
-# InspiraChat Privacy Policy
+# Chournal Privacy Policy
 
 ## Overview
 
-InspiraChat (hereinafter referred to as "we" or "the App") is a note-taking application designed to help users take notes as if they were chatting with someone. We respect and protect the privacy rights of every user. This Privacy Policy aims to provide detailed information on how we collect, use, store, and protect your personal information. Please read the following content carefully before using the App.
+Chournal(original name：Chournal) (hereinafter referred to as "we" or "the App") is a note-taking application designed to help users take notes as if they were chatting with someone. We respect and protect the privacy rights of every user. This Privacy Policy aims to provide detailed information on how we collect, use, store, and protect your personal information. Please read the following content carefully before using the App.
 
 ## App Description
 
-**InspiraChat** is an innovative note-taking app that allows you to record life's inspirations and important matters as if you were chatting with someone. It supports seamless use on iPhone, iPad, and Mac, leveraging iCloud cloud services to ensure your data is secure and easily accessible across devices.
+**Chournal** is an innovative note-taking app that allows you to record life's inspirations and important matters as if you were chatting with someone. It supports seamless use on iPhone, iPad, and Mac, leveraging iCloud cloud services to ensure your data is secure and easily accessible across devices.
 
 ## Data Storage and Processing
 
 ### Data Storage Location
 
-- **iCloud Storage**: InspiraChat relies on users' private iCloud space to store all note data. This means your data is directly saved in the iCloud account managed by Apple, not on our servers. Therefore, your notes are not only secure but also occupy your personal iCloud storage space.
+- **iCloud Storage**: Chournal relies on users' private iCloud space to store all note data. This means your data is directly saved in the iCloud account managed by Apple, not on our servers. Therefore, your notes are not only secure but also occupy your personal iCloud storage space.
 
 ### No Account System
 
-- **No Registration or Login Required**: To simplify the user experience and protect user privacy, InspiraChat does not require users to register or log in to any account. We have not established our own account system, ensuring that your personal identification information is completely separated from your note content.
+- **No Registration or Login Required**: To simplify the user experience and protect user privacy, Chournal does not require users to register or log in to any account. We have not established our own account system, ensuring that your personal identification information is completely separated from your note content.
 
 ## AI Features and Data Processing
 
@@ -33,7 +33,7 @@ InspiraChat (hereinafter referred to as "we" or "the App") is a note-taking appl
 
 ### We Do Not Collect User Data
 
-- **Zero Data Collection**: InspiraChat pledges not to collect, store, or analyze any personal data from users, including but not limited to note content, device information, location data, etc. We firmly believe that your data should solely belong to you.
+- **Zero Data Collection**: Chournal pledges not to collect, store, or analyze any personal data from users, including but not limited to note content, device information, location data, etc. We firmly believe that your data should solely belong to you.
 
 ## Security Measures
 
@@ -42,7 +42,7 @@ InspiraChat (hereinafter referred to as "we" or "the App") is a note-taking appl
 
 ## Contact Us
 
-If you have any questions or suggestions regarding InspiraChat's Privacy Policy, please contact us via the following method:
+If you have any questions or suggestions regarding Chournal's Privacy Policy, please contact us via the following method:
 
 - **Email**: wujiuye99@gmail.com
 
@@ -50,5 +50,5 @@ If you have any questions or suggestions regarding InspiraChat's Privacy Policy,
 
 We may update our Privacy Policy from time to time. Therefore, we recommend that you check this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes will take effect immediately upon posting on this page.
 
-Last updated: February 22, 2025
+Last updated: March 6, 2025
 
