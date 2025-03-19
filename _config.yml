@@ -2,3 +2,16 @@ theme: jekyll-theme-minimal
 title: Chournal
 description: Take notes as if you're chatting with someone
 
+# Language settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: "en"
+  -
+    scope:
+      path: "cn"
+    values:
+      lang: "zh-CN"
+
