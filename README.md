@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Chournal
 
 [查看简体中文](https://inspirachat.github.io/cn/README)
