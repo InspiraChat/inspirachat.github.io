@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Chournal - Feature Introduction
 
 Chournal is a chat-based note-taking application that allows users to record inspirations, ideas, to-do items, and financial transactions through conversations. The app integrates AI functionality, supports voice input, image uploads, file sharing, and provides powerful organization and search capabilities.

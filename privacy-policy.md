@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Chournal Privacy Policy
 
 ## Overview
