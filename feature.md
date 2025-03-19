@@ -25,43 +25,44 @@ In Chournal, virtual friends/note topics/note categories are called "Inspiration
 ### 3. AI Assistant Features
 
 * AI Conversation: Support for conversations with AI assistants to get suggestions and answers
-* AI Summarization: Automatically summarize key points from chat content
-* AI-Generated To-Do Items: Automatically generate to-do lists based on chat content
-* AI-Generated Bills: Extract billing information from chat content
-* AI Text Refinement: Intelligent refinement and optimization of text content
-* AI Merging: Intelligently merge multiple messages into one complete content
+* AI Summarization: One-click AI summarization of fragmented notes
+* AI-Generated To-Do Items: AI automatically generates to-do lists based on notes
+* AI-Generated Bills: AI generates bills from notes, providing detailed bill information
+* AI Text Refinement: Intelligent refinement of voice-recognized text (correcting typos and removing grammatical errors)
+* AI Merging: Merge multiple messages into one, using AI to automatically refine and make the combined sentences coherent
 
 ### 4. To-Do Item Management
 
-* To-Do Creation: Multi-select to create to-do lists, AI-generated to-do lists, single-select messages to add to existing to-do lists, support for continuous AI generation of to-do lists
+* To-Do Creation: Multi-select messages to create to-do lists, AI-generated to-do lists, single-select messages to add to existing to-do lists
+* Continuous AI To-Do Generation: For existing to-do lists, after adding new notes (chat messages), you can use AI to generate new to-do lists that include uncompleted tasks from previous lists
 * Status Tracking: Mark completion status of to-do items
 * Swipe Actions: Reveal hidden menus through swiping to delete specific tasks in to-do lists
 
 ### 5. Content Management & Organization
 
 * Message Editing: Support for editing sent messages
-* Message Deletion: Delete single or multiple messages in batch
-* Message Transfer: Transfer selected messages to new inspirations
-* Multi-select Messages: Support for selecting multiple messages for batch operations
-* Message Merging: Combine multiple related messages into one
+* Message Deletion: Delete single messages or batch delete multiple messages
+* Message Transfer: Transfer selected multiple messages to newly created inspirations
+* Message Merging: Combine multiple selected messages into one
 * Clear History: Clear all messages before a specific time point
 
 ### 6. Search & Find
 
 * Full-text Search: Support for searching all inspirations and message content
-* Search Result Preview: Intuitive display of search result context
+* Search Result Preview: Intuitive display of search result context with highlighted keywords
 
 ### 7. Multimedia Content Handling
 
-* Image Viewer: Built-in image viewing functionality with support for saving images to gallery
-* Audio Playback: Built-in audio player for playing recorded voice messages
+* Image Viewer: Click on images for full-screen viewing, with support for saving images to gallery
+* Audio Playback: Support for playing recorded voice messages
 * File Preview: Select files to open with other apps
+* No Compression: All images and files are stored without compression, preserving original files
 
 ### 8. Data & Cloud Synchronization
 
 * iCloud Storage: All data stored in iCloud and synchronized across multiple devices
-* Local Cache: Provides local caching to reduce network dependency
-* Data Export: Not yet developed
+* Local Cache: Provides local caching to reduce network dependency and optimize experience
+* Data Export: Feature not yet developed
 
 ### 9. User Center
 
@@ -72,5 +73,5 @@ In Chournal, virtual friends/note topics/note categories are called "Inspiration
 ### 10. Settings & Preferences
 
 * General Settings: Basic application settings and preferences
-* AI Settings: Configure AI assistant behavior and parameters
-* Cache Management: View and clean application cache
+* AI Settings: Provides AI assistant parameter configuration for VIP users
+* Cache Management: Clean application cache
