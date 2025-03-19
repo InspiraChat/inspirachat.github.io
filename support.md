@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chournal Technical Support
 
 ## Technical Support Contact Information
