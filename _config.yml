@@ -2,16 +2,20 @@ theme: jekyll-theme-minimal
 title: Chournal
 description: Take notes as if you're chatting with someone
 
-# Language settings
+# Language-specific settings
 defaults:
   -
     scope:
       path: ""
     values:
       lang: "en"
+      title: "Chournal"
+      description: "Take notes as if you're chatting with someone"
   -
     scope:
       path: "cn"
     values:
       lang: "zh-CN"
+      title: "聊记"
+      description: "与朋友聊天一样记笔记"
 
