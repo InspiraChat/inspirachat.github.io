@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 聊记
 
 [View in English](https://inspirachat.github.io/README)
