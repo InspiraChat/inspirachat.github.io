@@ -12,6 +12,7 @@ In Chournal, virtual friends/note topics/note categories are called "Inspiration
 * Inspiration Editing: Support for modifying inspiration titles, icons, and content
 * Inspiration Pinning: Important inspirations can be pinned to the top
 * Inspiration List: Inspirations are displayed as a list for easy access, with sorting rules configurable in general settings
+* Quick Record: Desktop widget support allows binding an inspiration to quick record, clicking the widget directly opens the chat window of that inspiration with keyboard ready for input
 
 ### 2. Diverse Content Input Methods
 
