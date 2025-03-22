@@ -37,13 +37,14 @@ In Chournal, virtual friends/note topics/note categories are called "Inspiration
 * To-Do Creation: Multi-select messages to create to-do lists, AI-generated to-do lists, single-select messages to add to existing to-do lists
 * Continuous AI To-Do Generation: For existing to-do lists, after adding new notes (chat messages), you can use AI to generate new to-do lists that include uncompleted tasks from previous lists
 * Status Tracking: Mark completion status of to-do items
+* To-Do Reminders: Ability to add deadlines to to-do items and create a to-do reminder desktop widget that displays upcoming deadlines
 * Swipe Actions: Reveal hidden menus through swiping to delete specific tasks in to-do lists
 
 ### 5. Content Management & Organization
 
 * Message Editing: Support for editing sent messages
 * Message Deletion: Delete single messages or batch delete multiple messages
-* Message Transfer: Transfer selected multiple messages to newly created inspirations
+* Message Transfer: Transfer selected multiple messages to existing inspirations or newly created inspirations
 * Message Merging: Combine multiple selected messages into one
 * Clear History: Clear all messages before a specific time point
 
